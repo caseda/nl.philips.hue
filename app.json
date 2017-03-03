@@ -1,6 +1,6 @@
 {
 	"id": "nl.philips.hue",
-	"version": "2.2.3",
+	"version": "2.2.4",
 	"compatibility": ">=0.10.0",
 	"name": {
 		"en": "Philips Hue"
